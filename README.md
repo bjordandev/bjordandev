@@ -23,7 +23,7 @@ I'm a passionate <strong>frontend developer</strong> with an interest for softwa
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascruot" width="45" height="45"/> 
   </a>
 </div>
