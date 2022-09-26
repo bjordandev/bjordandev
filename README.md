@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jordan B. 🐱‍💻</h1>
-
+I am a passionate **frontend developer** with an interest for software craftmanship and design. Also self-taught at heart, I learn everything on the Internet, following online courses and being methodical and diligent in the realization of my projects to professionalize myself to the fullest. It's been almost **1 year 🎂** now that my mission is to turn ideas into real projects through frontend development. 
 <div>
   <h2 align="left">Projects 🚧💜</h2>
   <ul>
