@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jordan B.</h1>
+<div>
+  <img src=""
+</div>
+<div>
+  <h2 align="left">Projects</h2>
+  <ul>
+    <li>
+      <a href="https://fm-expenses-chart-component.netlify.app/" target="blank">
+        Frontend Mentor - Expenses chart component
+      </a>
+    </li>
+    <li>
+      <a href="https://fm-calculator-tip.netlify.app/" target="blank">
+        Frontend Mentor - Tip calculator app
+      </a>
+    </li>
+  </ul>
+</div>
 
-<!--
-**bjordandev/bjordandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<h2 align="left">Connect with me</h2>
+  <ul>
+    <li>
+      <a href="https://hashnode.com/@bjordandev" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bjordandev" height="30" width="30" />
+        Hashnode
+      </a>
+    </li>
+  </ul>
+</div>
