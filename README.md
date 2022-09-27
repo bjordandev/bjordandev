@@ -19,23 +19,25 @@ I'm a passionate <strong>frontend developer</strong> with an interest for softwa
 
 <div>
   <h2 align="left">My toolbox is 💻🧰</h2>
-  <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/> 
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascruot" width="45" height="45"/> 
-  </a>
+  <p>
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  </p>
 </div>
 
 <div>
 <h2 align="left">Connect with me 🌍🤝</h2>
-  <ul>
-    <li>
-      <a href="https://hashnode.com/@bjordandev" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bjordandev" height="30" width="30" />
-        Hashnode
-      </a>
-    </li>
-  </ul>
+<p>
+    <a href="mailto:b.jordan.dev@outlook.com">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact me">
+    </a>
+    <a href="https://github.com/bjordandev">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github profile"> 
+    </a>
+    <a href="https://bjordandev.hashnode.dev/">
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Reach out my last articles">
+    </a>
+</p>
 </div>
