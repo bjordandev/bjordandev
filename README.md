@@ -30,8 +30,6 @@ I'm a passionate <strong>frontend developer</strong> with an interest for softwa
 <div>
 <h2 align="left">Connect with me 🌍🤝</h2>
 <p>
-    <a href="mailto:b.jordan.dev@outlook.com">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact me">
     <a href="https://bjordandev.hashnode.dev/">
         <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Reach out my last articles">
     </a>
