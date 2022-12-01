@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan B. 🐱‍💻</h1>
-I'm a passionate <strong>frontend developer</strong> with an interest for software craftmanship and design. Also self-taught at heart, I learn everything on the Internet, following online courses and being hardworking in the execution of my projects to professionalize myself to the fullest. I also like to share my ideas and learn from others by maintaining a technical blog, doing various challenges and occasionally contributing to open-source projects. In this way my mission is clearly to turn ideas into real projects through frontend development. 
+I turn your ideas into real projects through frontend development! 🚀📈
+
+Looking for a front-end developer who has a deep awareness about the importance of a well-architected application and an excellent UX/UI? Let's connect together 
 
 <div>
   <h2 align="left">Projects 🚧💜</h2>
