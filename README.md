@@ -6,22 +6,6 @@ Looking for a front-end developer who has a deep awareness about the importance 
 Let's connect together 
 
 <div>
-  <h2 align="left">Projects 🚧💜</h2>
-  <ul>
-    <li>
-      <a href="https://fm-expenses-chart-component.netlify.app/" target="blank">
-        Frontend Mentor - Expenses chart component ✅
-      </a>
-    </li>
-    <li>
-      <a href="https://fm-calculator-tip.netlify.app/" target="blank">
-        Frontend Mentor - Tip calculator app ✅
-      </a>
-    </li>
-  </ul>
-</div>
-
-<div>
   <h2 align="left">My toolbox is 💻🧰</h2>
   <p>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
