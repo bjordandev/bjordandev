@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jordan B. 🐱‍💻</h1>
-I turn your ideas into real projects through frontend development! 🚀📈
+<h1 align="center">Hi 👋, I'm BJORDANDEV 🐱‍💻</h1>
+I turn ideas into real projects through frontend development! 🚀📈
 
-Looking for a front-end developer who has a deep awareness about the importance of a **well-architected** application and an **excellent UX/UI**? 
-
-Let's connect together 🌍🤝
-
+Currently focusing on making my portfolio... 🎯
+ 
 <div>
   <h2 align="left">My toolbox is 💻🧰</h2>
   <p>
